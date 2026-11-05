@@ -3,6 +3,10 @@
 ### - Nhiều hơn, ít hơn
 ![Minh họa](./images/nhieu-hon-it-hon.png)
 
+$$
+\sqrt{a^2 + b^2}
+$$
+
 <div style="display: flex; gap: 15px; flex-wrap: wrap; font-family: sans-serif;">
 
   <!-- Cặp 1: 5 và 4 -->
