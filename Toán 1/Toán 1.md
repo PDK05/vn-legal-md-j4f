@@ -7,6 +7,16 @@ $$
 \sqrt{a^2 + b^2}
 $$
 
+$$V = \pi \int_{a}^{b} [f(x)]^2 \, dx$$
+
+<div style="font-size: 250em;">
+
+$$
+\square
+$$
+
+</div>
+
 <div style="display: flex; gap: 15px; flex-wrap: wrap; font-family: sans-serif;">
 
   <!-- Cặp 1: 5 và 4 -->
